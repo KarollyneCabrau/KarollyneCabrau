@@ -2,7 +2,7 @@
 - 👀 I’m interested in psychology and I'm now studying Systems Analysis and Development.
 - 🌱 I’m currently learning studying Systems Analysis and Development and algorithm
 - 💞️ I am looking to initially contribute my knowledge...
-- 📫 How to reach me: karollynecabrau@outlook.com
+- 📫 How to reach me: karollynecabrau@hotmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have red hair >.<'
 
