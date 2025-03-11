@@ -4,7 +4,7 @@
 - 💞️ I am looking to initially contribute my knowledge...
 - 📫 How to reach me: karollynecabrau@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have red hair >.<'
+- ⚡ Fun fact: I like to take care of plants.
 
 <!---
 KarollyneCabrau/KarollyneCabrau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
