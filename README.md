@@ -1,6 +1,6 @@
 # Olá, mundo!  Eu sou Karollyne Cabrau
 
-## Sobre mim
+## Sobre mim  ‍♀️
 
 Sou uma psicóloga de 29 anos empolgada com a transição de carreira para a área de tecnologia! Em fevereiro de 2025, iniciei minha jornada no curso de Análise e Desenvolvimento de Sistemas e estou adorando explorar esse universo fascinante.
 
