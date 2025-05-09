@@ -11,7 +11,7 @@ Sou uma psicóloga de 29 anos empolgada com a transição de carreira para a ár
 * **Estudos Atuais:**
     * Inglês
     * Algoritmos
-    * Microsoft Copilot Studio (DIO)
+    * Git e Github
 * **Próximos Passos:**
     * Lógica de Programação VisualG
     * C++
