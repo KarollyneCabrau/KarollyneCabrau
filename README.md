@@ -9,7 +9,7 @@ Sou uma psicóloga de 30 anos empolgada com a transição de carreira para a ár
 * **Formação:** Psicologia
 * **Transição de Carreira:** Análise e Desenvolvimento de Sistemas (início em fevereiro de 2025)
 * **Estudos Atuais:**
-    * Inglês
+    * Front-End
     * Algoritmos
     * Git e Github
 * **Próximos Passos:**
