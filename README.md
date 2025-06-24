@@ -26,8 +26,7 @@ Sou uma pessoa curiosa e apaixonada por aprender. Estou explorando diversas áre
 
 ## Conecte-se comigo
 
-Sinta-se à vontade para se conectar comigo no GitHub! Adoro trocar ideias e aprender com outras pessoas da comunidade.
-Meu instagram: @KarollyneCabrau.
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karollynecabrau)
 
 ## Observações
 
