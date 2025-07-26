@@ -1,30 +1,46 @@
-# Olá, mundo!  Eu sou Karollyne Cabrau
+# Olá, mundo! Eu sou Karollyne Cabrau
 
-## Sobre mim  ‍♀️
+## 👩‍💻 Sobre mim
 
-Sou uma psicóloga de 30 anos empolgada com a transição de carreira para a área de tecnologia! Em fevereiro de 2025, iniciei minha jornada no curso de Análise e Desenvolvimento de Sistemas e estou adorando explorar esse universo fascinante.
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em **desenvolvimento back-end**. No momento, estou focada em aprofundar meus conhecimentos em **Java**, explorando sua lógica, estrutura e aplicação em projetos práticos.
 
-## Minha jornada
+Além da tecnologia, também atuo como **psicóloga**, profissão pela qual tenho muito carinho e que ainda faz parte da minha rotina profissional. Conciliar essas duas áreas tem sido um desafio empolgante — e uma grande fonte de aprendizado!
 
-* **Formação:** Psicologia
-* **Transição de Carreira:** Análise e Desenvolvimento de Sistemas (início em fevereiro de 2025)
-* **Estudos Atuais:**
-    * Back-End em Java
-    * Algoritmos
-    * Git e Github
-* **Próximos Passos:**
-    * Lógica de Programação VisualG
-    * Java
-    * Projetos Práticos
+---
 
-## Meus interesses
+## 🚀 O que estou estudando atualmente
 
-Sou uma pessoa curiosa e apaixonada por aprender. Estou explorando diversas áreas da tecnologia para descobrir qual delas me encanta mais.
+- 💻 Java (estrutura de dados, orientação a objetos e projetos com terminal)
+- 🧠 Lógica de programação
+- 🔁 Git e GitHub (versionamento e organização de projetos)
+- 🌐 Fundamentos da web (HTML, CSS e conceitos de front-end adquiridos em cursos anteriores)
 
-## Conecte-se comigo
+---
+
+## 🎯 Objetivos
+
+- Construir uma base sólida em **Java** e **back-end**
+- Aprender sobre **Spring Boot** futuramente
+- Desenvolver projetos próprios e contribuir com repositórios no GitHub
+- Me preparar para oportunidades como **desenvolvedora júnior**
+
+---
+
+## 🌱 Curiosidades
+
+- 👩‍⚕️ Ainda atuo como psicóloga clínica, com experiência em saúde mental e psicoeducação
+- 💡 Acredito que tecnologia e psicologia podem se complementar em soluções humanas e criativas
+- ✨ Gosto de aprender de forma estruturada, mas criativa — misturando teoria, prática e propósito
+
+---
+
+## 💬 Vamos conversar?
+
+Se quiser trocar ideias, tirar dúvidas ou apenas bater um papo sobre tech e saúde mental, estou por aqui! 😊  
+Você me encontra em:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karollynecabrau) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karollynecabrau/)
 
-## Observações
+##
 
-Sou iniciante na área de tecnologia, mas estou muito motivada a aprender e crescer. Agradeço a paciência e o apoio de todos!
+ *Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos por aqui.*
