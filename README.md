@@ -17,10 +17,6 @@ Além da tecnologia, também atuo como **psicóloga**, profissão pela qual tenh
 
 ---
 
-## 🌱 Curiosidades
-
-- 👩‍⚕️ Ainda atuo como psicóloga clínica, com experiência em saúde mental e psicoeducação
-
 ## 💬 Vamos conversar?
 
 Se quiser trocar ideias, tirar dúvidas ou apenas bater um papo sobre tech e saúde mental, estou por aqui! 😊  
