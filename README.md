@@ -26,4 +26,4 @@ Você me encontra em:
 
 ##
 
- *Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos por aqui.*
+ *Obrigada por visitar meu perfil!*
