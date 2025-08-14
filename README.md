@@ -17,15 +17,6 @@ Além da tecnologia, também atuo como **psicóloga**, profissão pela qual tenh
 
 ---
 
-## 🎯 Objetivos
-
-- Construir uma base sólida em **Java** e **back-end**
-- Aprender sobre **Spring Boot** futuramente
-- Desenvolver projetos próprios e contribuir com repositórios no GitHub
-- Me preparar para oportunidades como **desenvolvedora júnior**
-
----
-
 ## 🌱 Curiosidades
 
 - 👩‍⚕️ Ainda atuo como psicóloga clínica, com experiência em saúde mental e psicoeducação
