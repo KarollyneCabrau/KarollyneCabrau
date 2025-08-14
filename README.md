@@ -20,10 +20,6 @@ Além da tecnologia, também atuo como **psicóloga**, profissão pela qual tenh
 ## 🌱 Curiosidades
 
 - 👩‍⚕️ Ainda atuo como psicóloga clínica, com experiência em saúde mental e psicoeducação
-- 💡 Acredito que tecnologia e psicologia podem se complementar em soluções humanas e criativas
-- ✨ Gosto de aprender de forma estruturada, mas criativa — misturando teoria, prática e propósito
-
----
 
 ## 💬 Vamos conversar?
 
