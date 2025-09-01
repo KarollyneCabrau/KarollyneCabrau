@@ -2,18 +2,18 @@
 
 ## 👩‍💻 Sobre mim
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em **desenvolvimento back-end**. No momento, estou focada em aprofundar meus conhecimentos em **Java**, explorando sua lógica, estrutura e aplicação em projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em constante aprendizado para atuar na área de tecnologia. Busco desenvolver uma base sólida em programação, fundamentos da web, versionamento de código e boas práticas de desenvolvimento.
 
-Além da tecnologia, também atuo como **psicóloga**, profissão pela qual tenho muito carinho e que ainda faz parte da minha rotina profissional. Conciliar essas duas áreas tem sido um desafio empolgante — e uma grande fonte de aprendizado!
-
+Minha formação e experiência como psicóloga contribuem para o desenvolvimento de competências como organização, pensamento analítico e comunicação eficaz, que aplico também no meu crescimento como futura profissional de TI.
 ---
 
 ## 🚀 O que estou estudando atualmente
 
-- 💻 Java (estrutura de dados, orientação a objetos e projetos com terminal)
-- 🧠 Lógica de programação
-- 🔁 Git e GitHub (versionamento e organização de projetos)
-- 🌐 Fundamentos da web (HTML, CSS e conceitos de front-end adquiridos em cursos anteriores)
+- 🧠 Lógica de Programação
+- 💻 Fundamentos de Programação
+- 🔁 Git e GitHub (versionamento e colaboração)
+- 🌐 Fundamentos da Web (HTML e CSS)
+- ☁️ Conceitos de Computação em Nuvem (AWS Cloud Foundations)
 
 ---
 
