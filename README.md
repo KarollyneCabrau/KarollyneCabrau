@@ -1,21 +1,26 @@
-# Olá, mundo! Eu sou Karollyne Cabrau
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2F8CA1&section=header&reversal=false&fontColor=398C9E&fontSize=20&fontAlign=11&fontAlignY=14" />
 
-## 👩‍💻 Sobre mim
+<h2 align="center"> Hello, World!! Welcome to my GitHub profile!</h2> 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em constante aprendizado para atuar na área de tecnologia. Busco desenvolver uma base sólida em programação, fundamentos da web, versionamento de código e boas práticas de desenvolvimento.
+## **I am Karollyne Cabrau** ✨
 
-Minha experiência como psicóloga me trouxe habilidades interpessoais valiosas, como comunicação eficaz, organização e resolução de problemas, que aplico também no meu desenvolvimento em TI.
+- 🎓 Estou no segundo período de Análise e Desenvolvimento de Sistemas
+- 🧠 Lógica de Programação
+- 💻 Tenho foco em desenvolvimento Back-end
+- 🌱 Atualmente estudando Java e boas práticas de programação
+- ☁️ Conceitos de Computação em Nuvem (AWS Cloud Foundations)
+- ✨ Em transição de carreira: de Psicologia para Tecnologia
 
+-  Hub de Conhecimento – [DIO | Karollyne Cabrau](https://www.dio.me/users/estudakarollyne)   
 
 ---
 
-## 🚀 O que estou estudando atualmente
+## ⭐️ &nbsp;GitHub Stats
 
-- 🧠 Lógica de Programação
-- 💻 Fundamentos de Programação
-- 🔁 Git e GitHub (versionamento e colaboração)
-- 🌐 Fundamentos da Web (HTML e CSS)
-- ☁️ Conceitos de Computação em Nuvem (AWS Cloud Foundations)
+<a href="https://github.com/Savarezi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarollyneCabrau&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarollyneCabrau&layout=compact&langs_count=6&theme=merko"/>
+</a>
 
 ---
 
