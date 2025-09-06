@@ -4,8 +4,7 @@
 
 ## **I am Karollyne Cabrau** ✨
 
-🎓 Estou no segundo período de Análise e Desenvolvimento de Sistemas
-
+🎓 Estou no segundo período de Análise e Desenvolvimento de Sistemas  
 🧠 Lógica de Programação  
 💻 Tenho foco em desenvolvimento Back-end  
 🌱 Atualmente estudando Java e boas práticas de programação  
