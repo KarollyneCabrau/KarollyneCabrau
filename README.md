@@ -4,7 +4,7 @@
 
 ---
 
-## **Eu sou Karollyne Cabrau** ✨
+## **✨ Eu sou Karollyne Cabrau** 
 
 🎓 Estou no segundo período de **Análise e Desenvolvimento de Sistemas**  
 🧠 Lógica de Programação  
