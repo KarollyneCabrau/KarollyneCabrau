@@ -4,12 +4,13 @@
 
 ## **I am Karollyne Cabrau** ✨
 
-- 🎓 Estou no segundo período de Análise e Desenvolvimento de Sistemas
-- 🧠 Lógica de Programação
-- 💻 Tenho foco em desenvolvimento Back-end
-- 🌱 Atualmente estudando Java e boas práticas de programação
-- ☁️ Conceitos de Computação em Nuvem (AWS Cloud Foundations)
-- ✨ Em transição de carreira: de Psicologia para Tecnologia
+🎓 Estou no segundo período de Análise e Desenvolvimento de Sistemas
+
+🧠 Lógica de Programação  
+💻 Tenho foco em desenvolvimento Back-end  
+🌱 Atualmente estudando Java e boas práticas de programação  
+☁️ Conceitos de Computação em Nuvem (AWS Cloud Foundations)  
+✨ Em transição de carreira: de Psicologia para Tecnologia  
 
 -  Hub de Conhecimento – [DIO | Karollyne Cabrau](https://www.dio.me/users/estudakarollyne)   
 
